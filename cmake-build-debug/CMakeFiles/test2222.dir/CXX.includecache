@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/main.cpp
+report.h
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/report.h
+iostream
+-
+chrono
+-
+
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/report.cpp
+report.h
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/report.h
+
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/report.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+map
+-
+future
+-
+

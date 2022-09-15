@@ -1,0 +1,3 @@
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/cmake-build-debug/CMakeFiles/test2222.dir
+C:/Users/pilavov/CLionProjects/TestTaskSolutionIntellias/cmake-build-debug/CMakeFiles/edit_cache.dir
